@@ -25,7 +25,7 @@ Art_Amp-XL uses a combination of **ControlNet** and **Stable Diffusion XL** mode
 
 Below are examples demonstrating the transformative power of Art_Amp-XL:
 
-### **Art 1**
+### **Art 1 (Enhanced shading and paint on some part of line art)**
 - **Before (Line Art)**:
   
   ![Art 1 - Line Art](./art1.png)
@@ -36,7 +36,7 @@ Below are examples demonstrating the transformative power of Art_Amp-XL:
 
 ---
 
-### **Art 2**
+### **Art 2 (Enhanced shading)**
 - **Before (Line Art)**:
   
   ![Art 2 - Line Art](./art2.png)
@@ -47,7 +47,7 @@ Below are examples demonstrating the transformative power of Art_Amp-XL:
 
 ---
 
-### **Art 3**
+### **Art 3 (Using Colorize prompt)**
 - **Before (Line Art)**:
   
   ![Art 3 - Line Art](./art3.png)
