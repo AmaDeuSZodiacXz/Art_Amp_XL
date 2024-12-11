@@ -36,7 +36,7 @@ Below are examples demonstrating the transformative power of Art_Amp-XL:
 
 ---
 
-### **Art 2 (Enhanced shading)**
+### **Art 2 (Enhanced shading prompt)**
 - **Before (Line Art)**:
   
   ![Art 2 - Line Art](./art2.png)
@@ -58,7 +58,7 @@ Below are examples demonstrating the transformative power of Art_Amp-XL:
 
 ---
 
-### **Art 4**
+### **Art 4 (Enhance Shading and Sharpness promt)**
 - **Before (Line Art)**:
   
   ![Art 4 - Line Art](./art4.png)
